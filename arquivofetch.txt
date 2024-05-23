@@ -1,2 +1,2 @@
 Aula de git fetch.
-a
+Aula de git pull.
