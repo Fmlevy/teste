@@ -2,4 +2,4 @@ Só um arquivo qualquer da aula de git push.
 
 Alterei este arquivo na aula de git pull.
 
-Implementação da funcionalidade 1.
+Implementação da funcionalidade #1.
